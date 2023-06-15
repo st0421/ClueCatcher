@@ -10,6 +10,13 @@ using [test.py](test.py). You will end up running something like `python test_mo
 ### Result
 You can find Jupyter notebooks for results computations in the [notebook](notebook) folder.
 
+
+<img src="/result/gif/id0_0002.gif" width="250" height="250"/>
+<img src="/result/gif/id0_id3_0002.gif" width="250" height="250"/>
+<img src="/result/gif/id0_id20_0002.gif" width="250" height="250"/>
+<img src="/result/gif/id0_id23_0002.gif" width="250" height="250"/>
+
+
 ![id0_0002](https://github.com/st0421/ClueCatcher/assets/81230496/37b3baa3-6393-4081-8392-09b30fcc66dc) 
 ![id0_id23_0002](https://github.com/st0421/ClueCatcher/assets/81230496/52223e05-8eed-467a-811d-1d9e9089fe70)
 ![id0_id20_0002](https://github.com/st0421/ClueCatcher/assets/81230496/ffae01d8-c723-463b-9906-b7f43ce636fb) 
