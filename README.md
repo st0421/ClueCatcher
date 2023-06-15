@@ -11,7 +11,7 @@ using [test.py](test.py). You will end up running something like `python test_mo
 You can find Jupyter notebooks for results computations in the [notebook](notebook) folder.
 
 <p align='center'>
-  <img src="/result/gif/id0_0002.gif" width="240" height='180'/>
+  <img src="/result/gif/id0_0002.gif" width="360" height='240'/>
   <img src="/result/gif/id0_id3_0002.gif"/>
 </p>
 <p align='center'>
