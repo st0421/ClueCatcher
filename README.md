@@ -15,14 +15,14 @@ You can find Jupyter notebooks for results computations in the [notebook](notebo
   <img src="/result/gif/id0_id3_0002.gif" width="300" height='180'/>
 </p>
 <p align='center'>
-  <img src="/result/gif/id0_id20_0002.gif" width="360" height='240'/>
-  <img src="/result/gif/id0_id23_0002.gif" width="360" height='240'/>
+  <img src="/result/gif/id0_id20_0002.gif"  width="300" height='180'/>
+  <img src="/result/gif/id0_id23_0002.gif"  width="300" height='180'/>
 </p>
 <p align='center'>
-  <img src="/result/gif/id38_0004.gif" width="360" height='240'/>
-  <img src="/result/gif/id38_id_23_0004.gif" width="360" height='240'/>
+  <img src="/result/gif/id38_0004.gif" width="300" height='180'/>
+  <img src="/result/gif/id38_id_23_0004.gif"  width="300" height='180'/>
 </p>
 <p align='center'>
-  <img src="/result/gif/id38_id_26_0004.gif" width="360" height='240'/>
-  <img src="/result/gif/id38_id_28_0004.gif" width="360" height='240'/>
+  <img src="/result/gif/id38_id_26_0004.gif" width="300" height='180'/>
+  <img src="/result/gif/id38_id_28_0004.gif" width="300" height='180'/>
 </p>
