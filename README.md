@@ -12,17 +12,17 @@ You can find Jupyter notebooks for results computations in the [notebook](notebo
 
 <p align='center'>
   <img src="demo/scoreid0_0002.gif" width="300" height='180'/>
-  <img src="demo/scoreid0_id3_0002.gif" width="300" height='180'/>
+  <img src="demo/scroeid0_id3_0002.gif" width="300" height='180'/>
 </p>
 <p align='center'>
-  <img src="demo/scoreid0_id20_0002.gif"  width="300" height='180'/>
-  <img src="demo/scoreid0_id23_0002.gif"  width="300" height='180'/>
+  <img src="demo/scroeid0_id20_0002.gif"  width="300" height='180'/>
+  <img src="demo/scroeid0_id23_0002.gif"  width="300" height='180'/>
 </p>
 <p align='center'>
-  <img src="demo/scoreid38_0004.gif" width="300" height='180'/>
-  <img src="demo/scoreid38_id_23_0004.gif"  width="300" height='180'/>
+  <img src="demo/scroeid38_0004.gif" width="300" height='180'/>
+  <img src="demo/scroeid38_id_23_0004.gif"  width="300" height='180'/>
 </p>
 <p align='center'>
-  <img src="demo/scoreid38_id_26_0004.gif" width="300" height='180'/>
-  <img src="demo/scoreid38_id_28_0004.gif" width="300" height='180'/>
+  <img src="demo/scroeid38_id_26_0004.gif" width="300" height='180'/>
+  <img src="demo/scroeid38_id_28_0004.gif" width="300" height='180'/>
 </p>
