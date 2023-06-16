@@ -20,9 +20,9 @@ You can find Jupyter notebooks for results computations in the [notebook](notebo
 </p>
 <p align='center'>
   <img src="demo/scroeid38_0004.gif" width="300" height='180'/>
-  <img src="demo/scroeid38_id_23_0004.gif"  width="300" height='180'/>
+  <img src="demo/scroeid38_id23_0004.gif"  width="300" height='180'/>
 </p>
 <p align='center'>
-  <img src="demo/scroeid38_id_26_0004.gif" width="300" height='180'/>
-  <img src="demo/scroeid38_id_28_0004.gif" width="300" height='180'/>
+  <img src="demo/scroeid38_id26_0004.gif" width="300" height='180'/>
+  <img src="demo/scroeid38_id28_0004.gif" width="300" height='180'/>
 </p>
