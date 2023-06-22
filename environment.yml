@@ -1,4 +1,4 @@
-name: icpr
+name: cluecatcher
 channels:
   - pytorch
   - conda-forge
