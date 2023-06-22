@@ -1,14 +1,3 @@
-"""
-Video Face Manipulation Detection Through Ensemble of CNNs
-
-Image and Sound Processing Lab - Politecnico di Milano
-
-Nicolò Bonettini
-Edoardo Daniele Cannas
-Sara Mandelli
-Luca Bondi
-Paolo Bestagini
-"""
 from collections import OrderedDict
 import torch.utils.model_zoo as model_zoo
 import torch
