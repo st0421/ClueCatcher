@@ -1,12 +1,3 @@
-"""
-Index Celeb-DF v2
-Image and Sound Processing Lab - Politecnico di Milano
-Nicolò Bonettini
-Edoardo Daniele Cannas
-Sara Mandelli
-Luca Bondi
-Paolo Bestagini
-"""
 import argparse
 from multiprocessing import Pool
 from pathlib import Path
