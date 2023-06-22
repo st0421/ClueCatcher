@@ -1,15 +1,3 @@
-"""
-Video Face Manipulation Detection Through Ensemble of CNNs
-
-Image and Sound Processing Lab - Politecnico di Milano
-
-Nicolò Bonettini
-Edoardo Daniele Cannas
-Sara Mandelli
-Luca Bondi
-Paolo Bestagini
-"""
-
 weight_url = {
 'EfficientNetAutoAttB4ST_DFDC':'https://f002.backblazeb2.com/file/icpr2020/EfficientNetAutoAttB4ST_DFDC_bestval-4df0ef7d2f380a5955affa78c35d0942ac1cd65229510353b252737775515a33.pth',
 'EfficientNetAutoAttB4ST_FFPP':'https://f002.backblazeb2.com/file/icpr2020/EfficientNetAutoAttB4ST_FFPP_bestval-ddb357503b9b902e1b925c2550415604c4252b9b9ecafeb7369dc58cc16e9edd.pth',
