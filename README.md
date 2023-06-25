@@ -28,7 +28,7 @@ You can find Jupyter notebooks for results computations in the [notebook](notebo
   <img src="demo/281_df.gif"  width="300" height='180'/>
 </p>
 <p align='center'>
-  <img src="demo/281_fs.gif" width="300" height='180'/>
+  <img src="demo/281_f2f.gif" width="300" height='180'/>
   <img src="demo/281_nt.gif" width="300" height='180'/>
 </p>
 <p align='center'>
